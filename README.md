@@ -11,11 +11,11 @@ Raspberry Pi 기반 안내 화면과 차량 출입 시스템을 개발·운영�
 
 `Python` `Pose Estimation` `GAT`
 
-### VEDA 프로젝트
+### [VEDA — VisionCraft 스마트 팩토리](https://github.com/VisionCraft2025)
 임베디드 소프트웨어 교육 과정에서 진행한 팀 프로젝트입니다.
-팀 저장소와 작업 기록을 통해 담당 기능을 소개합니다.
+카메라 기반 분류, MQTT 장치 통신, Qt 모니터링 화면을 연결한 스마트 팩토리 시스템을 다뤘습니다.
 
-<!-- 팀 저장소의 정확한 주소와 담당 범위를 확인한 뒤 연결합니다. -->
+`C++` `Qt` `MQTT` `OpenCV`
 
 ### [원격 관리형 디지털 사이니지](https://github.com/shear99/smart-signage)
 Python 서버에서 배포한 영상·자막·일정을 Raspberry Pi와 동기화하고, C++/Qt 화면에 표시하는 시스템입니다.
