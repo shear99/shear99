@@ -17,7 +17,7 @@ Raspberry Pi 기반 안내 화면과 차량 출입 시스템을 개발·운영�
 
 `C++` `Qt` `MQTT` `OpenCV`
 
-### [원격 관리형 디지털 사이니지](https://github.com/shear99/smart-signage)
+### [스마트 디지털 사이니지](https://github.com/shear99/smart-signage)
 Python 서버에서 배포한 영상·자막·일정을 Raspberry Pi와 동기화하고, C++/Qt 화면에 표시하는 시스템입니다.
 콘텐츠 다운로드와 화면 표시를 분리하고, 새 콘텐츠의 검증이 끝난 뒤 화면을 전환하도록 구성했습니다.
 
